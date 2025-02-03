@@ -1,6 +1,6 @@
 - I’m Andrew.
 - I’m interested in invention(s), 3D technologies, advanced physics, and aeronautics.
-- I’m currently learning advance aspects of Verilog, C++ and Python
+- I’m currently developing my skills in advanced Verilog, C++ and Python
 - I’m looking to collaborate on projects that are socially positive and significant.
 
 <!---
